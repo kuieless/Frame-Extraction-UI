@@ -1,4 +1,6 @@
 # 视频帧提取器 (Video Frame Extractor)
+![UI Components Overview/UI组件界面](https://github.com/kuieless/Frame-Extraction-UI/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241115222740.png)
+![Frame Preview and Deletion/帧预览及删除](https://github.com/kuieless/Frame-Extraction-UI/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241115222913.png)
 
 ## Introduction
 The Video Frame Extractor is a graphical user interface application built with PyQt5 and OpenCV that allows users to extract frames from video files. Users can specify the interval for frame extraction and set the output directory. The application also supports GPU acceleration (to be implemented) for improved performance.
